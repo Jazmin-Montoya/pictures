@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from "axios";
 
 const searchImages = async(term) =>{
     const url = 'https://api.unsplash.com/search/photos/?client_id=rBAdR-0PSE-LoiG7eRFVQdNrssALvYiqlI6AkJ804LQ'
